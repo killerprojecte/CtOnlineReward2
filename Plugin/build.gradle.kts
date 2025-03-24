@@ -23,7 +23,7 @@ taboolib {
 
     classifier = null
     version {
-        taboolib = "6.2.3"
+        taboolib = "6.1.1-beta17"
     }
 
     relocate("com.zaxxer.hikari.", "com.zaxxer.hikari_4_0_3.")
