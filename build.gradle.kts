@@ -2,7 +2,7 @@ plugins {
     `java-library`
     java
     id("org.jetbrains.kotlin.jvm") version "2.1.20"
-    id("io.izzel.taboolib") version "2.0.4"
+    id("io.izzel.taboolib") version "2.2.0"
     id("com.github.johnrengelman.shadow") version "7.1.2" apply false
 
 }
